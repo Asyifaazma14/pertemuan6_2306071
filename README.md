@@ -1,6 +1,6 @@
 #  pertemuan6_2306071
 
-Project ini merupakan hasil praktikum **Pertemuan 6** pada mata kuliah Mobile Programming dengan menggunakan framework Flutter.
+Project ini merupakan hasil praktikum **Pertemuan 6** pada mata kuliah Praktikum Pemrograman Mobile dengan menggunakan framework Flutter.
 
 ##  Tujuan
 
@@ -91,12 +91,3 @@ Berikut adalah hasil tampilan aplikasi:
 
 ---
 
-##  Catatan
-
-Project ini dibuat untuk memenuhi tugas praktikum dan dapat dikembangkan lebih lanjut dengan menambahkan fitur seperti:
-
-* Input password
-* Register page
-* Integrasi database
-
----
