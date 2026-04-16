@@ -33,7 +33,7 @@ Project ini dibuat untuk mengimplementasikan:
 
 * **Home Page**
 
-  * Menampilkan username
+  * Menampilkan "berhasil login"
   * Tombol kembali
 
 ---
