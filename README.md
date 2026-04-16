@@ -1,17 +1,102 @@
-# pertemuan6_2306071
+#  pertemuan6_2306071
 
-A new Flutter project.
+Project ini merupakan hasil praktikum **Pertemuan 6** pada mata kuliah Mobile Programming dengan menggunakan framework Flutter.
 
-## Getting Started
+##  Tujuan
 
-This project is a starting point for a Flutter application.
+Project ini dibuat untuk mengimplementasikan:
 
-A few resources to get you started if this is your first Flutter project:
+* Form input menggunakan Flutter
+* Validasi input (Form & Validator)
+* Penggunaan TextEditingController
+* Navigasi antar halaman (Navigator)
+* Routing pada Flutter
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Fitur Aplikasi
+
+* Form Login dengan validasi
+* Navigasi dari halaman Login ke Home
+* Pengiriman data username ke halaman Home
+* Tombol kembali ke halaman Login
+
+---
+
+## 📂 Struktur Halaman
+
+* **Login Page**
+
+  * Input username
+  * Validasi form
+  * Tombol login
+
+* **Home Page**
+
+  * Menampilkan username
+  * Tombol kembali
+
+---
+
+## 🚀 Cara Menjalankan Project
+
+1. Clone repository:
+
+   ```bash
+   git clone https://github.com/USERNAME/pertemuan6_2306071.git
+   ```
+
+2. Masuk ke folder project:
+
+   ```bash
+   cd pertemuan6_2306071
+   ```
+
+3. Jalankan aplikasi:
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📸 Screenshot Output
+
+Berikut adalah hasil tampilan aplikasi:
+
+### 🔹 Halaman Login
+
+<img width="627" height="988" alt="Screenshot 2026-04-16 200514" src="https://github.com/user-attachments/assets/c63717c5-6adb-42c7-969d-2ea4f1377f7e" /><img width="627" height="988" alt="Screenshot 2026-04-16 200525" src="https://github.com/user-attachments/assets/d75557d2-d53b-451b-a4fd-c6586087b5f7" />
+
+
+
+### 🔹 Halaman Home
+<img width="627" height="988" alt="Screenshot 2026-04-16 200532" src="https://github.com/user-attachments/assets/3efb1912-1b2f-4e09-acf7-12bc160795ee" />
+
+
+> ```
+
+---
+
+##  Teknologi yang Digunakan
+
+* Flutter
+* Dart
+
+---
+
+
+* Nama: Asyifa Azsma Homsatin
+* NIM: 2306071
+
+---
+
+##  Catatan
+
+Project ini dibuat untuk memenuhi tugas praktikum dan dapat dikembangkan lebih lanjut dengan menambahkan fitur seperti:
+
+* Input password
+* Register page
+* Integrasi database
+
+---
