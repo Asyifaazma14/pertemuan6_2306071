@@ -23,7 +23,7 @@ Project ini dibuat untuk mengimplementasikan:
 
 ---
 
-## 📂 Struktur Halaman
+##  Struktur Halaman
 
 * **Login Page**
 
@@ -38,7 +38,7 @@ Project ini dibuat untuk mengimplementasikan:
 
 ---
 
-## 🚀 Cara Menjalankan Project
+##  Cara Menjalankan Project
 
 1. Clone repository:
 
